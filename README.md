@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @van-le-91
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python & SQL
+- I'm making edits to my edit branch
 
 
 <!---
